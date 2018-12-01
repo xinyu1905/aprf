@@ -1,5 +1,4 @@
 # aprf
-supplementary informtion for elastic moduli prediction
 
 These files are provided for the paper "Machine Learning aided design of materials with target elastic properties".
 
